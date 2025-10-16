@@ -1,0 +1,152 @@
+{
+  "Alsace": {
+    "nom": "Julie Decroix",
+    "age": "20 ans",
+    "taille": "1,75 m"
+  },
+  "Aquitaine": {
+    "nom": "Aïnhoa Lahitete",
+    "age": "19 ans",
+    "taille": "1,73 m"
+  },
+  "Auvergne": {
+    "nom": "Alice De Lima Guimaraes",
+    "age": "19 ans",
+    "taille": "1,72 m"
+  },
+  "Bourgogne": {
+    "nom": "Charlène Laurin",
+    "age": "22 ans",
+    "taille": "1,82 m"
+  },
+  "Bretagne": {
+    "nom": "Ninon Crolas",
+    "age": "18 ans",
+    "taille": "1,71 m"
+  },
+  "Centre-Val-de-Loire": {
+    "nom": "Anna Valero",
+    "age": "19 ans",
+    "taille": "1,74 m"
+  },
+  "Champagne-Ardenne": {
+    "nom": "Ynès Lallemand",
+    "age": "19 ans",
+    "taille": "1,72 m"
+  },
+  "Corse": {
+    "nom": "Manon Mateus",
+    "age": "23 ans",
+    "taille": "1,71 m"
+  },
+  "Côte d'Azur": {
+    "nom": "Luna Maiolino",
+    "age": "19 ans",
+    "taille": "1,75 m"
+  },
+  "Franche-Comté": {
+    "nom": "Jade Cholley",
+    "age": "19 ans",
+    "taille": "1,77 m"
+  },
+  "Guadeloupe": {
+    "nom": "Naomi Torrent",
+    "age": "30 ans",
+    "taille": "1,77 m"
+  },
+  "Guyane": {
+    "nom": "Alicia Mertosetiko",
+    "age": "20 ans",
+    "taille": "1,73 m"
+  },
+  "Île-de-France": {
+    "nom": "Mareva Michel",
+    "age": "21 ans",
+    "taille": "1,78 m"
+  },
+  "Languedoc": {
+    "nom": "Lou Lambert",
+    "age": "19 ans",
+    "taille": "1,72 m"
+  },
+  "Limousin": {
+    "nom": "Aloïce Sejotte",
+    "age": "24 ans",
+    "taille": "1,74 m"
+  },
+  "Lorraine": {
+    "nom": "Camille L’Étang",
+    "age": "23 ans",
+    "taille": "1,72 m"
+  },
+  "Martinique": {
+    "nom": "Léaline Patry",
+    "age": "21 ans",
+    "taille": "1,71 m"
+  },
+  "Mayotte": {
+    "nom": "Kamillat Hervian",
+    "age": "24 ans",
+    "taille": "1,73 m"
+  },
+  "Midi-Pyrénées": {
+    "nom": "Léa Chabrel",
+    "age": "24 ans",
+    "taille": "1,70 m"
+  },
+  "Nord-Pas-de-Calais": {
+    "nom": "Lola Lacheré",
+    "age": "20 ans",
+    "taille": "1,74 m"
+  },
+  "Normandie": {
+    "nom": "Victoire Dupuis",
+    "age": "19 ans",
+    "taille": "1,70 m"
+  },
+  "Nouvelle-Calédonie": {
+    "nom": "Juliette Collet",
+    "age": "23 ans",
+    "taille": "1,70 m"
+  },
+  "Pays de la Loire": {
+    "nom": "Lola Winter",
+    "age": "19 ans",
+    "taille": "1,71 m"
+  },
+  "Picardie": {
+    "nom": "Emma Boivin",
+    "age": "24 ans",
+    "taille": "1,77 m"
+  },
+  "Poitou-Charentes": {
+    "nom": "Agathe Michelet",
+    "age": "26 ans",
+    "taille": "1,74 m"
+  },
+  "Provence": {
+    "nom": "Julie Zitouni",
+    "age": "26 ans",
+    "taille": "1,72 m"
+  },
+  "Réunion": {
+    "nom": "Priya Padavatan",
+    "age": "19 ans",
+    "taille": "1,70 m"
+  },
+  "Rhône-Alpes": {
+    "nom": "Noémie Baiamonte",
+    "age": "21 ans",
+    "taille": "1,71 m"
+  },
+  "Roussillon": {
+    "nom": "Déborah Adelin-Chabal",
+    "age": "18 ans",
+    "taille": "1,75 m"
+  },
+  "Tahiti": {
+    "nom": "Hinaupoko Deveze",
+    "age": "23 ans",
+    "taille": "1,82 m"
+  }
+}
