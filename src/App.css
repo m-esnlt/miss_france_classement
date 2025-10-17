@@ -1,4 +1,11 @@
 body , h1, p{
   margin: 0;
   padding: 0;
+  text-align: center;
+}
+
+h1, p, button, h2, h3{
+  font-family: "Birthstone", cursive;
+  font-weight: 400;
+  font-style: normal;
 }

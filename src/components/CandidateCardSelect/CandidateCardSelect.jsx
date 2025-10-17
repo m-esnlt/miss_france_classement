@@ -14,7 +14,7 @@ export default function CandidateCardSelected({ candidate, region }) {
         <div className="candidate-card">
             <Photo photo_url={candidate.photo_url} />
             <div className="candidate-main-info">
-                <h3>{region}</h3>
+                <h3>Miss {region}</h3>
                 <p>{candidate.nom}</p>
             </div>
             <div className="candidate-details">
