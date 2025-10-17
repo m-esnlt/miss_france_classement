@@ -1,0 +1,30 @@
+header {
+    background: linear-gradient(
+        90deg,
+        rgba(176, 106, 168, 1) 0%,
+        rgba(217, 13, 108, 1) 51%,
+        rgba(100, 0, 88, 1) 100%
+    );
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    margin: 10vh 0 10vh 0;
+}
+
+
+
+.dirButton {
+    background: #fff;
+    color: #333;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 2vh 2vh;
+    margin:1vh;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}

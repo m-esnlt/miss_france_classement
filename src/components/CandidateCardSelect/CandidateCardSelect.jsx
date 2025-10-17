@@ -1,6 +1,9 @@
+import LikeButton from "../LikeButton/LikeButton"
+import "./CandidateCardSelect.css"
+
 function Photo({photo_url}) {
     return (
-        <img src={photo_url} alt="Photo de la candidate" />
+        <img className="candidate-photo" src={photo_url} alt="Photo de la candidate" />
     )
 }
 
@@ -8,17 +11,17 @@ function Photo({photo_url}) {
 
 export default function CandidateCardSelected({ candidate, region }) {
     return (
-        <div>
+        <div className="candidate-card">
             <Photo photo_url={candidate.photo_url} />
-            <div>
+            <div className="candidate-main-info">
                 <h3>{region}</h3>
                 <p>{candidate.nom}</p>
             </div>
-            <div>
+            <div className="candidate-details">
                 <p>{candidate.taille}</p>
                 <p>{candidate.age}</p>
             </div>
-            {/* <LikeButton /> */}
+            <LikeButton className="like-button" />
         </div>
     );
 }

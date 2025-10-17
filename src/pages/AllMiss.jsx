@@ -3,7 +3,7 @@ import SelectedList from "../components/SelectedList";
 export default function AllMiss() {
     return(
         <div>
-            <SelectedList />
+            <SelectedList consigne="Selectionne tes 15 présélectionnées !"/>
         </div>
     )
 }

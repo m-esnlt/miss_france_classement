@@ -1,0 +1,68 @@
+.candidate-card {
+  display: flex;
+  align-items: center;
+  background-color: #fdfcfd;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(100, 0, 88, 20);
+  overflow: hidden;
+  width: 90%;
+  max-width: 600px;
+  height: 20vh;
+  margin: 2vh 2vh;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.candidate-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(100, 0, 88, 20);
+}
+
+/* ✅ Image à gauche */
+.candidate-photo {
+  width: 15vh;
+  height:90%;
+  object-fit: cover;
+  margin : 12px;
+  border-radius: 12px 
+}
+
+/* ✅ Bloc infos principales (nom + région) */
+.candidate-main-info {
+  flex: 1;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.candidate-main-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.candidate-main-info p {
+  margin: 0;
+  color: #555;
+}
+
+/* ✅ Bloc infos secondaires (taille, âge) */
+.candidate-details {
+  width: 20%;
+  margin-left: auto;
+  margin-right: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.like-button {
+  margin-left: auto;
+  margin-right: 5vh;
+}

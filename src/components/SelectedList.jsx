@@ -1,10 +1,10 @@
 import candidates from "../data/candidates.json"
-import CandidateCardSelected from "./CandidateCardSelect"
+import CandidateCardSelected from "./CandidateCardSelect/CandidateCardSelect"
 
-export default function SelectedList() {
+export default function SelectedList(props) {
     return (
         <div>
-            <h1>Sélectionne tes 15 miss préselectionnées !</h1>
+            <h1>{props.consigne}</h1>
 
             <ul>
                 {
