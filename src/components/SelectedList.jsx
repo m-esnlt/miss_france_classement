@@ -8,7 +8,7 @@ export default function SelectedList(props) {
 
             <ul>
                 {
-                    Object.entries(candidates).map(([region, infos]) => (
+                    Object.entries(props.src_candidates).map(([region, infos]) => (
                         <CandidateCardSelected key={region} candidate={infos} region={region} />
                     ))
                 }
