@@ -3,180 +3,180 @@
     "nom": "Julie Decroix",
     "age": "20 ans",
     "taille": "1,75 m",
-    "photo_url": "https://www.radiomelodie.com/actus/flashs/2025/15538-julie-decroix-representera-lalsace-lors-de-lelection-de-miss-france-2026_w1500.jpg"
+    "photo_url": "/data/alsace.jpg"
   },
   "Aquitaine": {
     "nom": "Aïnhoa Lahitete",
     "age": "19 ans",
     "taille": "1,73 m",
-    "photo_url": "https://media.sudouest.fr/26232099/600x600/photo-quentin-ai-nhoa-lahitete-1.jpg"
+    "photo_url": "/data/aquitaine.jpg"
   },
-  "Auvergne": {
+   "Auvergne": {
     "nom": "Alice De Lima Guimaraes",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/07/516838286_122230641752075014_3686574818496944633_n-432x652.jpg"
+    "photo_url": "/data/auvergne.jpg"
   },
   "Bourgogne": {
     "nom": "Charlène Laurin",
     "age": "22 ans",
     "taille": "1,82 m",
-    "photo_url": "https://medias.larenaissancehebdo.fr/photos/galeries/45396/1740-tab.jpg"
+    "photo_url": "/data/bourgogne.jpg"
   },
   "Bretagne": {
     "nom": "Ninon Crolas",
     "age": "18 ans",
     "taille": "1,71 m",
-    "photo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkE7lqYJg5jMvjy86J_j7nNZ5ZZROzV6q9aWe4vOwDHSTZqNeSbonf5IEQ0dxpabbzZb2l9B_bVq-LFajznncrr4Lj7GwaScAS4vcPQqdHTuXdw9NIrh-6rmu8hV3VDUAcdVlH1uCc7lYZQMkex6KIil4Qy2tkx5z765WGi1SxVA7MR0xBEXMyIxmA5Q/s6720/Miss%20Bretagne%202025%20449.JPG"
+    "photo_url": "/data/bretagne.jpg"
   },
   "Centre-Val-de-Loire": {
     "nom": "Anna Valero",
     "age": "19 ans",
     "taille": "1,74 m",
-    "photo_url": "https://static.public.fr/wp-content/uploads/2025/07/Capture-decran-2025-07-07-145107.png"
+    "photo_url": "/data/centre-val-de-loire.jpg"
   },
   "Champagne-Ardenne": {
     "nom": "Ynès Lallemand",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "https://www.latitude.fm/wp-content/uploads/2025/10/IMG_4147-860x1024.jpg"
+    "photo_url": "/data/champagne-ardenne.jpg"
   },
   "Corse": {
     "nom": "Manon Mateus",
     "age": "23 ans",
     "taille": "1,71 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/07/Corse-432x652.jpg"
+    "photo_url": "/data/corse.jpg"
   },
   "Côte d'Azur": {
     "nom": "Luna Maiolino",
     "age": "19 ans",
     "taille": "1,75 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFaFXf1mBuHAbFKwEQCUt_eudL1VVaTDy9cABbeKC4eCuvlyDzcl_bf2K7S1uk_HjIHg&usqp=CAU"
+    "photo_url": "/data/cote-d-azur.jpg"
   },
   "Franche-Comté": {
     "nom": "Jade Cholley",
     "age": "19 ans",
     "taille": "1,77 m",
-    "photo_url": "https://www.macommune.info/wp-content/uploads/2025/09/jade-cholley-miss-fc-2025.jpg"
+    "photo_url": "/data/franche-comte.jpg"
   },
-  "Guadeloupe": {
+"Guadeloupe": {
     "nom": "Naomi Torrent",
     "age": "30 ans",
     "taille": "1,77 m",
-    "photo_url": "https://la1ere.franceinfo.fr/image/K_WmV_TgpbjZuiHkTb4edbDKJHI/1200x1200/outremer/2025/07/20/miss-guadeloupe-687cf91c8d062440049713.jpg"
+    "photo_url": "/data/guadeloupe.jpg"
   },
   "Guyane": {
     "nom": "Alicia Mertosetiko",
     "age": "20 ans",
     "taille": "1,73 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/08/535801491_18064362527464060_2506763928612837443_n.jpg"
+    "photo_url": "/data/guyane.jpg"
   },
   "Île-de-France": {
     "nom": "Mareva Michel",
     "age": "21 ans",
     "taille": "1,78 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUAUnUJsWUKZ4NYN_jojDtaAL-p4o2hSg7MM2pzOORhS97yrHgX7uwoDhkHS_UMQssow&usqp=CAU"
+    "photo_url": "/data/ile-de-france.jpg"
   },
   "Languedoc": {
     "nom": "Lou Lambert",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "https://www.misslanguedoc.fr/wp-content/uploads/2025/07/lou_lambert_miss_languedoc_2025-1024x1024.jpg"
+    "photo_url": "/data/languedoc.jpg"
   },
   "Limousin": {
     "nom": "Aloïce Sejotte",
     "age": "24 ans",
     "taille": "1,74 m",
-    "photo_url": "https://img.centrefrance.com/3CeeKbjrLSYkNs6sKKHRVhWilTGXTWcqMiGvW9uaNy4/fit/657/438/sm/1/bG9jYWw6Ly8vMDAvMDAvMDcvNDkvOTYvMjAwMDAwNzQ5OTYwMQ.jpg"
+    "photo_url": "/data/limousin.jpg"
   },
   "Lorraine": {
     "nom": "Camille L’Étang",
     "age": "23 ans",
     "taille": "1,72 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8s-8K1R8peDHCpFkxbdQim_y62IP7KQMHQ9Vhh8TTE_XXUdLGTGHYxD_h3DCvB7uSKFA&usqp=CAU"
+    "photo_url": "/data/lorraine.jpg"
   },
   "Martinique": {
     "nom": "Léaline Patry",
     "age": "21 ans",
     "taille": "1,71 m",
-    "photo_url": "https://la1ere.franceinfo.fr/image/L_9q1uQW_mtUpaQFzR2vnCOlWuM/1200x1200/outremer/2025/09/14/miss-illu-68c6b07812027597004263.jpg"
+    "photo_url": "/data/martinique.jpg"
   },
   "Mayotte": {
     "nom": "Kamillat Hervian",
     "age": "24 ans",
     "taille": "1,73 m",
-    "photo_url": "https://resize.programme-television.org/original/var/premiere/storage/images/news/tv/actualites-audiovisuel/miss-mayotte-2025-l-election-tourne-au-fiasco-le-delegue-regional-demissionne-4744973/103285477-1-fre-FR/Miss-Mayotte-2025-L-election-tourne-au-fiasco-le-delegue-regional-demissionne.png"
+    "photo_url": "/data/mayotte.jpg"
   },
   "Midi-Pyrénées": {
     "nom": "Léa Chabrel",
     "age": "24 ans",
     "taille": "1,70 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCURLjw0iAiddnQ9L87piLP2E7fFdQ4obIGA&s"
+    "photo_url": "/data/midi-pyrennees.jpg"
   },
   "Nord-Pas-de-Calais": {
     "nom": "Lola Lacheré",
     "age": "20 ans",
     "taille": "1,74 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_awadQ203BVwd8q7yVvkXjBKsD7roakGgbiRLkhr4zxN58PzORcU-bjzQKwMVMcwEGP0&usqp=CAU"
+    "photo_url": "/data/nord-pas-de-calais.jpg"
   },
   "Normandie": {
     "nom": "Victoire Dupuis",
     "age": "19 ans",
     "taille": "1,70 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/06/Normandie-432x652.jpg"
+    "photo_url": "/data/normandie.jpg"
   },
   "Nouvelle-Calédonie": {
     "nom": "Juliette Collet",
     "age": "23 ans",
     "taille": "1,70 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/09/Nouvelle-Caledonie.jpg"
+    "photo_url": "/data/nouvelle-caledonie.jpg"
   },
   "Pays de la Loire": {
     "nom": "Lola Winter",
     "age": "19 ans",
     "taille": "1,71 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnumV6u8_nnjtQqT8dN8Lw9ObEczMHsQdCAq8hYE72Nf1l-8tTRocGX6aA8BWBvHU77IU&usqp=CAU"
+    "photo_url": "/data/pays-de-la-loire.jpg"
   },
   "Picardie": {
     "nom": "Emma Boivin",
     "age": "24 ans",
     "taille": "1,77 m",
-    "photo_url": "https://static.actu.fr/uploads/2025/09/emma-boivin-miss-picardie-960x640.jpg"
+    "photo_url": "/data/picardie.jpg"
   },
   "Poitou-Charentes": {
     "nom": "Agathe Michelet",
     "age": "26 ans",
     "taille": "1,74 m",
-    "photo_url": "https://media.charentelibre.fr/26199164/320x320/agathe.jpg?v=1759652422"
+    "photo_url": "/data/poitou-charente.jpg"
   },
   "Provence": {
     "nom": "Julie Zitouni",
     "age": "26 ans",
     "taille": "1,72 m",
-    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtU0vsfyCqIb7N-qMaesdj9FLCbHeHXZBDSQ&s"
+    "photo_url": "/data/provence.jpg"
   },
   "Réunion": {
     "nom": "Priya Padavatan",
     "age": "19 ans",
     "taille": "1,70 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/08/Reunion.jpg"
+    "photo_url": "/data/reunion.jpg"
   },
   "Rhône-Alpes": {
     "nom": "Noémie Baiamonte",
     "age": "21 ans",
     "taille": "1,71 m",
-    "photo_url": "https://universdesmiss.fr/wp-content/uploads/2025/09/551575708_18477634894073695_1821749859602969361_n-432x652.jpg"
+    "photo_url": "/data/rhone-alpes.jpg"
   },
   "Roussillon": {
     "nom": "Déborah Adelin-Chabal",
     "age": "18 ans",
     "taille": "1,75 m",
-    "photo_url": "https://france3-regions.franceinfo.fr/image/mHQM6deb4TxybJZQGInwble_Fik/3356x2529/regions/2025/08/14/img-3416-1-deborah-689e08b2a66dd449051553.jpg"
+    "photo_url": "/data/roussillon.jpg"
   },
   "Tahiti": {
     "nom": "Hinaupoko Deveze",
     "age": "23 ans",
     "taille": "1,82 m",
-    "photo_url": "https://la1ere.franceinfo.fr/image/iLSMrbmhzACjhsX2Y04d0YTgMTc/0x100:1600x1000/800x450/outremer/2025/06/29/chapo-articles-1600-x-1100-px-4-686126bd6a9cb984203761.png"
+    "photo_url": "/data/tahiti.jpg"
   }
 }

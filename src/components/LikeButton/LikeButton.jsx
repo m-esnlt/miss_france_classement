@@ -1,13 +1,11 @@
-import { useState } from "react";
 import "./LikeButton.css";
+import "../CandidateCardSelect/CandidateCardSelect.css";
 
-export default function LikeButton() {
-  const [liked, setLiked] = useState(false);
-
+export default function LikeButton({ liked, onClick }) {
   return (
     <button
       className={`like-button ${liked ? "liked" : ""}`}
-      onClick={() => setLiked(!liked)}
+      onClick={onClick}   // déclenche l’action dans le parent
     >
       {liked ? "❤️" : "🤍"}
     </button>
