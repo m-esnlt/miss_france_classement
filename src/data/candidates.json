@@ -3,180 +3,180 @@
     "nom": "Julie Decroix",
     "age": "20 ans",
     "taille": "1,75 m",
-    "photo_url": "/data/alsace.jpg"
+    "photo_url": "data/alsace.jpg"
   },
   "Aquitaine": {
     "nom": "Aïnhoa Lahitete",
     "age": "19 ans",
     "taille": "1,73 m",
-    "photo_url": "/data/aquitaine.jpg"
+    "photo_url": "data/aquitaine.jpg"
   },
    "Auvergne": {
     "nom": "Alice De Lima Guimaraes",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "/data/auvergne.jpg"
+    "photo_url": "data/auvergne.jpg"
   },
   "Bourgogne": {
     "nom": "Charlène Laurin",
     "age": "22 ans",
     "taille": "1,82 m",
-    "photo_url": "/data/bourgogne.jpg"
+    "photo_url": "data/bourgogne.jpg"
   },
   "Bretagne": {
     "nom": "Ninon Crolas",
     "age": "18 ans",
     "taille": "1,71 m",
-    "photo_url": "/data/bretagne.jpg"
+    "photo_url": "data/bretagne.jpg"
   },
   "Centre-Val-de-Loire": {
     "nom": "Anna Valero",
     "age": "19 ans",
     "taille": "1,74 m",
-    "photo_url": "/data/centre-val-de-loire.jpg"
+    "photo_url": "data/centre-val-de-loire.jpg"
   },
   "Champagne-Ardenne": {
     "nom": "Ynès Lallemand",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "/data/champagne-ardenne.jpg"
+    "photo_url": "data/champagne-ardenne.jpg"
   },
   "Corse": {
     "nom": "Manon Mateus",
     "age": "23 ans",
     "taille": "1,71 m",
-    "photo_url": "/data/corse.jpg"
+    "photo_url": "data/corse.jpg"
   },
   "Côte d'Azur": {
     "nom": "Luna Maiolino",
     "age": "19 ans",
     "taille": "1,75 m",
-    "photo_url": "/data/cote-d-azur.jpg"
+    "photo_url": "data/cote-d-azur.jpg"
   },
   "Franche-Comté": {
     "nom": "Jade Cholley",
     "age": "19 ans",
     "taille": "1,77 m",
-    "photo_url": "/data/franche-comte.jpg"
+    "photo_url": "data/franche-comte.jpg"
   },
 "Guadeloupe": {
     "nom": "Naomi Torrent",
     "age": "30 ans",
     "taille": "1,77 m",
-    "photo_url": "/data/guadeloupe.jpg"
+    "photo_url": "data/guadeloupe.jpg"
   },
   "Guyane": {
     "nom": "Alicia Mertosetiko",
     "age": "20 ans",
     "taille": "1,73 m",
-    "photo_url": "/data/guyane.jpg"
+    "photo_url": "data/guyane.jpg"
   },
   "Île-de-France": {
     "nom": "Mareva Michel",
     "age": "21 ans",
     "taille": "1,78 m",
-    "photo_url": "/data/ile-de-france.jpg"
+    "photo_url": "data/ile-de-france.jpg"
   },
   "Languedoc": {
     "nom": "Lou Lambert",
     "age": "19 ans",
     "taille": "1,72 m",
-    "photo_url": "/data/languedoc.jpg"
+    "photo_url": "data/languedoc.jpg"
   },
   "Limousin": {
     "nom": "Aloïce Sejotte",
     "age": "24 ans",
     "taille": "1,74 m",
-    "photo_url": "/data/limousin.jpg"
+    "photo_url": "data/limousin.jpg"
   },
   "Lorraine": {
     "nom": "Camille L’Étang",
     "age": "23 ans",
     "taille": "1,72 m",
-    "photo_url": "/data/lorraine.jpg"
+    "photo_url": "data/lorraine.jpg"
   },
   "Martinique": {
     "nom": "Léaline Patry",
     "age": "21 ans",
     "taille": "1,71 m",
-    "photo_url": "/data/martinique.jpg"
+    "photo_url": "data/martinique.jpg"
   },
   "Mayotte": {
     "nom": "Kamillat Hervian",
     "age": "24 ans",
     "taille": "1,73 m",
-    "photo_url": "/data/mayotte.jpg"
+    "photo_url": "data/mayotte.jpg"
   },
   "Midi-Pyrénées": {
     "nom": "Léa Chabrel",
     "age": "24 ans",
     "taille": "1,70 m",
-    "photo_url": "/data/midi-pyrennees.jpg"
+    "photo_url": "data/midi-pyrennees.jpg"
   },
   "Nord-Pas-de-Calais": {
     "nom": "Lola Lacheré",
     "age": "20 ans",
     "taille": "1,74 m",
-    "photo_url": "/data/nord-pas-de-calais.jpg"
+    "photo_url": "data/nord-pas-de-calais.jpg"
   },
   "Normandie": {
     "nom": "Victoire Dupuis",
     "age": "19 ans",
     "taille": "1,70 m",
-    "photo_url": "/data/normandie.jpg"
+    "photo_url": "data/normandie.jpg"
   },
   "Nouvelle-Calédonie": {
     "nom": "Juliette Collet",
     "age": "23 ans",
     "taille": "1,70 m",
-    "photo_url": "/data/nouvelle-caledonie.jpg"
+    "photo_url": "data/nouvelle-caledonie.jpg"
   },
   "Pays de la Loire": {
     "nom": "Lola Winter",
     "age": "19 ans",
     "taille": "1,71 m",
-    "photo_url": "/data/pays-de-la-loire.jpg"
+    "photo_url": "data/pays-de-la-loire.jpg"
   },
   "Picardie": {
     "nom": "Emma Boivin",
     "age": "24 ans",
     "taille": "1,77 m",
-    "photo_url": "/data/picardie.jpg"
+    "photo_url": "data/picardie.jpg"
   },
   "Poitou-Charentes": {
     "nom": "Agathe Michelet",
     "age": "26 ans",
     "taille": "1,74 m",
-    "photo_url": "/data/poitou-charente.jpg"
+    "photo_url": "data/poitou-charente.jpg"
   },
   "Provence": {
     "nom": "Julie Zitouni",
     "age": "26 ans",
     "taille": "1,72 m",
-    "photo_url": "/data/provence.jpg"
+    "photo_url": "data/provence.jpg"
   },
   "Réunion": {
     "nom": "Priya Padavatan",
     "age": "19 ans",
     "taille": "1,70 m",
-    "photo_url": "/data/reunion.jpg"
+    "photo_url": "data/reunion.jpg"
   },
   "Rhône-Alpes": {
     "nom": "Noémie Baiamonte",
     "age": "21 ans",
     "taille": "1,71 m",
-    "photo_url": "/data/rhone-alpes.jpg"
+    "photo_url": "data/rhone-alpes.jpg"
   },
   "Roussillon": {
     "nom": "Déborah Adelin-Chabal",
     "age": "18 ans",
     "taille": "1,75 m",
-    "photo_url": "/data/roussillon.jpg"
+    "photo_url": "data/roussillon.jpg"
   },
   "Tahiti": {
     "nom": "Hinaupoko Deveze",
     "age": "23 ans",
     "taille": "1,82 m",
-    "photo_url": "/data/tahiti.jpg"
+    "photo_url": "data/tahiti.jpg"
   }
 }
